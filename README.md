@@ -8,13 +8,7 @@ a collection of learning paths
 ## FrontEnd
 [How to Learn ReactJS](https://github.com/hlltarakci/howToLearn_reactjs "ReactJS Learning Path")
 
-Bootstrap
-
-Lodash
-
-Redux
-
-## BackEnd
-
+## Backend
+[How to Learn NodeJS](https://github.com/hlltarakci/howToLearn_nodejs "NodeJS Learning Path")
 
 ## Misc
